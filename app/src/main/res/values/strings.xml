@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloudChat</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">Send</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523422351239",
+    "project_id": "cloudchat-bbca6",
+    "storage_bucket": "cloudchat-bbca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523422351239:android:c18e175874d5e84b7c1d22",
+        "android_client_info": {
+          "package_name": "ru.aleksseii.cloud_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523422351239-oob4fi5hq8l2rfolkati9ji2nnp0aptm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRg7rkmToY9n0Mnoe6DBjbIfRjIhAVvXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523422351239-oob4fi5hq8l2rfolkati9ji2nnp0aptm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
